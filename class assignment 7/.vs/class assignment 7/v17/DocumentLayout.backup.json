@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\source\\repos\\class assignment 7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{371BAAD9-87A8-4506-8318-60128F50584E}|class assignment 7\\class assignment 7.vcxproj|C:\\Users\\danie\\source\\repos\\class assignment 7\\class assignment 7\\class assignment 7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{371BAAD9-87A8-4506-8318-60128F50584E}|class assignment 7\\class assignment 7.vcxproj|solutionrelative:class assignment 7\\class assignment 7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "class assignment 7.cpp",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\class assignment 7\\class assignment 7\\class assignment 7.cpp",
+              "RelativeDocumentMoniker": "class assignment 7\\class assignment 7.cpp",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\class assignment 7\\class assignment 7\\class assignment 7.cpp*",
+              "RelativeToolTip": "class assignment 7\\class assignment 7.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-15T06:51:16.424Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

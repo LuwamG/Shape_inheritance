@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\source\\repos\\Points_Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE86134-8503-48A4-AAD1-B523D8FC74CE}|Points_Class.vcxproj|C:\\Users\\danie\\source\\repos\\Points_Class\\Points_Class.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFE86134-8503-48A4-AAD1-B523D8FC74CE}|Points_Class.vcxproj|solutionrelative:Points_Class.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE86134-8503-48A4-AAD1-B523D8FC74CE}|Points_Class.vcxproj|C:\\Users\\danie\\source\\repos\\Points_Class\\Points_Class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFE86134-8503-48A4-AAD1-B523D8FC74CE}|Points_Class.vcxproj|solutionrelative:Points_Class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE86134-8503-48A4-AAD1-B523D8FC74CE}|Points_Class.vcxproj|C:\\Users\\danie\\source\\repos\\Points_Class\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFE86134-8503-48A4-AAD1-B523D8FC74CE}|Points_Class.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Points_Class.hpp",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\Points_Class\\Points_Class.hpp",
+              "RelativeDocumentMoniker": "Points_Class.hpp",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\Points_Class\\Points_Class.hpp",
+              "RelativeToolTip": "Points_Class.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T18:44:51.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\Points_Class\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\Points_Class\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T18:44:28.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Points_Class.cpp",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\Points_Class\\Points_Class.cpp",
+              "RelativeDocumentMoniker": "Points_Class.cpp",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\Points_Class\\Points_Class.cpp",
+              "RelativeToolTip": "Points_Class.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T18:23:44.932Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\danie\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(9,21): error C2228: left of '.size' must have class/struct/union
+      C:\Users\danie\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(9,21):
+      type is 'int [2]'
+  

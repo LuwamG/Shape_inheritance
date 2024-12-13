@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\source\\repos\\ConsoleApplication4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38649666-DCAC-4DC9-ADDD-6AFD470D3265}|ConsoleApplication4\\ConsoleApplication4.vcxproj|C:\\Users\\danie\\source\\repos\\ConsoleApplication4\\ConsoleApplication4\\ConsoleApplication4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{38649666-DCAC-4DC9-ADDD-6AFD470D3265}|ConsoleApplication4\\ConsoleApplication4.vcxproj|solutionrelative:ConsoleApplication4\\ConsoleApplication4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication4.cpp",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\ConsoleApplication4\\ConsoleApplication4\\ConsoleApplication4.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication4\\ConsoleApplication4.cpp",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\ConsoleApplication4\\ConsoleApplication4\\ConsoleApplication4.cpp",
+              "RelativeToolTip": "ConsoleApplication4\\ConsoleApplication4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-16T17:27:18.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
